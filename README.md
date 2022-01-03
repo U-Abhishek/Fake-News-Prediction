@@ -19,4 +19,3 @@ Example — If you search something on the search engine, with the help of TFIDF
 2) https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 #### All the data gathered is converted into required formate and saved in the below drive link 
 ### Data Download link []
-
